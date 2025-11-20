@@ -1,4 +1,6 @@
 ## vivado_10bit_CSA
+## REG NUM :
+## NAME :
 ## EXPERIMENT – 5  10-BIT CARRY SELECT ADDER (CSA)
 ##  TITLE
 Implementation of a 10-bit Carry Select Adder (CSA) on Spartan-7 Boolean Board using Vivado
